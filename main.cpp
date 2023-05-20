@@ -8,6 +8,7 @@ int main()
 	cin >> a1;
 	cin >> a2;
 	int u = mul(a1, a2);
+	cout<<"666<<endl;
 	cout << u << endl;
 	system("pause");
 	return 0;
